@@ -1,0 +1,39 @@
+"Demographic"	"dgroup"	"Freq"	"Perc"
+"ageFactors"	"18-24"	145	22.2
+""	"25-44"	394	60.4
+""	"45-64"	106	16.3
+""	"65+"	7	1.1
+"gender"	"Male"	384	58.9
+""	"Female"	268	41.1
+"race"	"White"	495	76.9
+""	"Black"	37	5.7
+""	"Hispanic"	33	5.1
+""	"Asian"	63	9.8
+""	"American Indian"	4	0.6
+""	"Other"	12	1.9
+""	"Unknown"	0	0
+"degree"	"None"	6	0.9
+""	"High School"	206	31.7
+""	"Associates"	83	12.8
+""	"College"	298	45.8
+""	"Masters"	48	7.4
+""	"Doctorate"	9	1.4
+""	"Unknown"	0	0
+"income"	"Under $10,000"	50	7.7
+""	"$10,000 to $14,999"	37	5.7
+""	"$15,000 to $19,999"	38	5.8
+""	"$20,000 to $29,999"	81	12.4
+""	"$30,000 to $39,999"	86	13.2
+""	"$40,000 to $49,999"	88	13.5
+""	"$50,000 to $74,999"	127	19.5
+""	"$75,000 to $99,999"	76	11.7
+""	"$100,000 to $149,999"	29	4.5
+""	"$150,000 and over"	19	2.9
+""	"I prefer not to say"	20	3.1
+""	"Unknown"	0	0
+"sexorient"	"Straight"	590	90.5
+""	"Bisexual"	34	5.2
+""	"Gay"	19	2.9
+""	"Other"	6	0.9
+""	"Unsure"	3	0.5
+"CountryofResidence"	"United States"	652	100
