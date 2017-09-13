@@ -1,6 +1,11 @@
 # nh-estimates
 
-A project examining the relationship between anonymity, privacy, and prevalence estimates of sensitive identities. Specifically, we examined non-heterosexual (nh) estimates of sexual orientation in large US surveys.
+Data and code for "Estimates of Non-Heterosexual Prevalence: The Roles of Anonymity and Privacy in Survey Methodology."
+- Full reference:
+    + Robertson, R. E., Tran, F. W., Lewark, L. N., & Epstein, R. (2017). Estimates of Non-Heterosexual Prevalence: The Roles of Anonymity and Privacy in Survey Methodology. _Archives of Sexual Behavior_, 1-16.
+- https://www.ncbi.nlm.nih.gov/pubmed/28785920
+
+This was a project examining the relationship between anonymity, privacy, and prevalence estimates of sensitive identities. Specifically, we examined non-heterosexual (nh) estimates of sexual orientation in large US surveys.
 
 ## Instructions
 
